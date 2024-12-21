@@ -58,9 +58,9 @@ To try it out, simply enter a city name (e.g., "London") in the input field and 
 
 ## Screenshots
 
-![Weather App Screenshot](https://github.com/prkshdas/Weather-App-with-Tkinter/blob/main/web_app1.png)
-![Weather App Screenshot](https://github.com/prkshdas/Weather-App-with-Tkinter/blob/main/web_app2.png)
-![Weather App Screenshot](https://github.com/prkshdas/Weather-App-with-Tkinter/blob/main/web_app3.png)
+![Weather App Screenshot1](https://github.com/prkshdas/Weather-App-with-Tkinter/blob/main/web_app1.png)
+![Weather App Screenshot2](https://github.com/prkshdas/Weather-App-with-Tkinter/blob/main/wed_app2.png)
+![Weather App Screenshot3](https://github.com/prkshdas/Weather-App-with-Tkinter/blob/main/web_app3.png)
 
 # Contributing
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
